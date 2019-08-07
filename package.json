@@ -1,0 +1,34 @@
+{
+  "name": "chrome-cookie-path",
+  "version": "1.0.0",
+  "description": "Find chrome cookies sqlite database path.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ignore-path .gitignore .",
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "node_modules/mocha/bin/mocha tests/*"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadkazmi42/chrome-cookie-path.git"
+  },
+  "keywords": [
+  "chrome-cookie-path",
+  "chrome-cookie",
+  "chrome",
+  "cookie",
+  "cookies database",
+  "sqlite"
+  ],
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "eslint": "^5.11.1",
+    "eslint-config-strongloop": "^2.1.0"
+  },
+  "author": "Arshad Kazmi",
+  "license": "MIT"
+}
