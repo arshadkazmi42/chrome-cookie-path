@@ -1,6 +1,6 @@
 # chrome-cookie-path
 
-[![Build Status](https://api.travis-ci.com/arshadkazmi42/chrome-cookie-path.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/chrome-cookie-path)
+[![Build](https://img.shields.io/travis/com/arshadkazmi42/chrome-cookie-path.svg)](https://travis-ci.com/arshadkazmi42/chrome-cookie-path/)
 
 Find chrome cookies sqlite database path.
 
