@@ -3,8 +3,9 @@ const os = require('os');
 
 const get = () => {
   const homeDir = os.homedir();
+  const username = os.userInfo().username;
   if (os.platform() === 'win32') {
-    throw new Error('Windows is not supported');
+    return `C:\\Users\\${username}\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cookies`;
   }
 
   if (os.platform() === 'darwin') {
