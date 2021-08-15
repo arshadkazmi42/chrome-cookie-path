@@ -1,6 +1,6 @@
 {
   "name": "chrome-cookie-path",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find chrome cookies sqlite database path.",
   "main": "index.js",
   "scripts": {
