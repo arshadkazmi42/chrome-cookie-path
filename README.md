@@ -1,5 +1,14 @@
 # chrome-cookie-path
 
+[![Build](https://github.com/Ebukachuqz/chrome-cookie-path/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/chrome-cookie-path.svg)](https://www.npmjs.com/package/chrome-cookie-path)
+[![NPM Downloads](https://img.shields.io/npm/dt/chrome-cookie-path.svg)](https://www.npmjs.com/package/chrome-cookie-path)
+[![Github Repo Size](https://img.shields.io/github/repo-size/Ebukachuqz/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path)
+[![LICENSE](https://img.shields.io/npm/l/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Ebukachuqz/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/Ebukachuqz/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/commits/master)
+
+
 [![Build](https://img.shields.io/travis/com/arshadkazmi42/chrome-cookie-path.svg)](https://travis-ci.com/arshadkazmi42/chrome-cookie-path/)
 
 Find chrome cookies sqlite database path.
