@@ -8,9 +8,6 @@
 [![Contributors](https://img.shields.io/github/contributors/Ebukachuqz/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/Ebukachuqz/chrome-cookie-path.svg)](https://github.com/Ebukachuqz/chrome-cookie-path/commits/master)
 
-
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/chrome-cookie-path.svg)](https://travis-ci.com/arshadkazmi42/chrome-cookie-path/)
-
 Find chrome cookies sqlite database path.
 
 ## Install
